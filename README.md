@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/static/v1?label&labelColor=3234bb&message=Guilherme Lumertz&color=ffffff&style=for-the-badge&logo=GitHub&logoColor=ffffff" height="25">
+<img src="./img/logo.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Logo Lumertz lab.">
 
-<br>
+<img src="https://img.shields.io/static/v1?label&labelColor=3234bb&message=Guilherme Lumertz&color=ffffff&style=for-the-badge&logo=GitHub&logoColor=ffffff" height="25">
 
 <h3>
     <strong>
@@ -16,8 +16,6 @@
     Sou movido a aprender coisas novas e aplicá-las em meus trabalhos, buscando sempre inovar e criar algo diferente/disruptivo. Dito isso, estou nessa caminhada como desenvolvedor e designer desde 2021, quando iniciei meus estudos nessas áreas. 😃  
 </p>
 
-<br>
-
 <h3>
     <strong>
         :rocket: Linguagens e Ferramentas
@@ -26,15 +24,13 @@
 
 ---
 
-<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<code><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <img height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img height="25" src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-<br>
+<code><img height="25" src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 
 <h3>
     <strong>
@@ -54,8 +50,6 @@
     <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br>
-
-<br>
+<br><br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lumertzlab&show_icons=false)
