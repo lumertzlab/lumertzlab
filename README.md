@@ -1,6 +1,4 @@
-<img src="./img/logo.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Logo Lumertz lab.">
-
-<img src="https://img.shields.io/static/v1?label&labelColor=3234bb&message=Guilherme Lumertz&color=ffffff&style=for-the-badge&logo=GitHub&logoColor=ffffff" height="25">
+<img src="https://img.shields.io/static/v1?label&labelColor=3234bb&message=Guilherme Lumertz&color=ffffff&style=for-the-badge&logo=GitHub&logoColor=ffffff" height="25">&nbsp;&nbsp;<img src="./img/logo.png" width="60px" alt="Logo Lumertz lab.">
 
 <h3>
     <strong>
@@ -24,13 +22,7 @@
 
 ---
 
-<code><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<img height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<code><img height="25" src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;<img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">&nbsp;<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;<img height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 <h3>
     <strong>
